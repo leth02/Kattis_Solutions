@@ -1,1 +1,1 @@
-This is an open source solutions to proble on Katis.com
+This is an open source solutions to problems on Katis.com
