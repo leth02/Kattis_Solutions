@@ -1,4 +1,4 @@
-# Problem name: Zipline; Difficulty: 4.4
+# Problem name: Zipline; Difficulty: 3.6
 
 import sys
 

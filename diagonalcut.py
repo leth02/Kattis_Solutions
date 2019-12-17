@@ -1,4 +1,5 @@
-# Problem name: Diagonal Cut; Difficulty: 48.
+# Problem name: Diagonal Cut; Difficulty: 4.8
+# This solution is not being accepted on Kattis. Will look at it later
 
 def ptdt(m, n, p3):
     if p3[1] == -m/n * p3[0] + m:
